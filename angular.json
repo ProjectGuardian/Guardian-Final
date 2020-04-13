@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Guardian-Final"
+    }
+  },
+  "defaultProject": "Guardian-Final",
+  "cli": {
+    "analytics": false
+  }
 }
